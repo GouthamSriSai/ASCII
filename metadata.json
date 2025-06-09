@@ -1,0 +1,5 @@
+{
+  "name": "ASCII Harmony Draw",
+  "description": "An interactive ASCII art drawing tool that generates musical patterns as you draw. Click and drag to create visual art and harmonious soundscapes with different character and sound themes.",
+  "requestFramePermissions": []
+}
